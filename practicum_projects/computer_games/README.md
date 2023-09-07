@@ -40,3 +40,7 @@ Critic_Score — оценка критиков (максимум 100)
 User_Score — оценка пользователей (максимум 10)
 
 Rating — рейтинг от организации ESRB (англ. Entertainment Software Rating Board).
+
+## Используемые библиотеки
+
+*Numpy*, *Pandas*, *Matplotlib*
