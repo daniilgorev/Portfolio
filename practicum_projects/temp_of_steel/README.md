@@ -31,4 +31,4 @@
 
 ## Используемые библиотеки
 
-*pandas*, *Matplotlib*, *seaborn*, *предобработка данных*, *исследовательский анализ данных*, *визуализация данных*, *sklearn*, *catboost*, *lightgbm*
+*pandas*, *Matplotlib*, *seaborn*, *sklearn*, *catboost*, *lightgbm*
