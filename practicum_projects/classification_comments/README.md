@@ -10,4 +10,4 @@
 - toxic - целевой признак
 
 ## Используемые библиотеки
-*pandas*, *nltk*, *tf-idf*
+*pandas*, *nltk*, *tf-idf*, *spacy*, *sclearn*, *lightgbm*
