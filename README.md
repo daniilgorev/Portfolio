@@ -1,7 +1,11 @@
 # Portfolio
 
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Специалист по Data Science".  
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессия "Специалист по Data Science". 
+
+[Certificate of completion the course (English version)](https://github.com/daniilgorev/yandex_practicum/blob/main/yandex_ds_certificate_en.pdf)
+
+[Certificate of completion the course (Russian version)](https://github.com/daniilgorev/yandex_practicum/blob/main/yandex_ds_certificate_ru.pdf)
 
 
 | Название проекта | Описание | Навыки и инструменты | Выполненные задачи |
